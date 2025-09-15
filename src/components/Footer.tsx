@@ -54,7 +54,7 @@ const Footer: React.FC = () => {
       </div>
 
       <div className="container mx-auto px-4 flex flex-col md:flex-row justify-center items-center">
-        <p className="text-sm">&copy; {new Date().getFullYear()} Business with Cameras. All Rights Reserved.</p>
+        <p className="text-sm text-center">&copy; {new Date().getFullYear()} Business with Cameras. All Rights Reserved.</p>
       </div>
     </footer>
   );

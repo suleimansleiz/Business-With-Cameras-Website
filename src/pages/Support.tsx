@@ -13,11 +13,11 @@ const Support: React.FC = () => {
   const faqs = [
     {
       q: "How do I know the right camera choice for me?",
-      a: "You can that by going through our product catalogue, which shows specifications and explanations about the product. Just click 'Products' then navigate from there.",
+      a: "You can go through our product catalogue, which shows specifications and explanations about the product. Just click 'Products' then navigate from there.",
     },
     {
-      q: "What is your offer advice?",
-      a: "Yes, offer advice to our customers for better choices and ensuring that our customers get what they are looking for. All you have to do is ask, click 'Contact Us' below.",
+      q: "Do you offer advice?",
+      a: "Yes, we offer advice to our customers for better choices and ensuring that our customers get what they are looking for. All you have to do is ask, click 'Contact Us' below.",
     },
     {
       q: "Do you offer technical support?",

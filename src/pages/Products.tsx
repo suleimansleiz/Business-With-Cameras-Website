@@ -17,7 +17,7 @@ const products: Product[] = [
     brand: "Canon",
     name: "EOS R5",
     img: "../../assets/canon.jpeg",
-    price: "$3,899",
+    price: "Tsh 1,500,000",
     description: "Professional mirrorless camera with superb 8K video capabilities.",
   },
   {
@@ -25,7 +25,7 @@ const products: Product[] = [
     brand: "Nikon",
     name: "Z7 II",
     img: "../../assets/nikon.jpeg",
-    price: "$2,999",
+    price: "Tsh 2,500,000",
     description: "High-resolution full-frame camera with dual processors.",
   },
   {
@@ -33,7 +33,7 @@ const products: Product[] = [
     brand: "Nikon",
     name: "Z7 IV",
     img: "../../assets/nikon2.jpeg",
-    price: "$2,499",
+    price: "Tsh 2,000,000",
     description: "Versatile mirrorless camera with excellent autofocus.",
   },
   {
@@ -41,15 +41,15 @@ const products: Product[] = [
     brand: "Canon",
     name: "EOS 6D mark II",
     img: "../../assets/camera3.jpg",
-    price: "$1,699",
+    price: "Tsh 2,700,000",
     description: "Compact and powerful camera with in-body stabilization.",
   },
   {
     id: 5,
     brand: "Canon",
-    name: "EOS 7D mark III",
+    name: "EOS 5D mark IV",
     img: "../../assets/camera2.jpg",
-    price: "$3,899",
+    price: "Tsh 3,500,000",
     description: "Professional mirrorless camera with superb 8K video capabilities.",
   },
   {
@@ -57,7 +57,7 @@ const products: Product[] = [
     brand: "Canon",
     name: "EOS 7D mark II",
     img: "../../assets/camera1.jpg",
-    price: "$2,999",
+    price: "Tsh 2,000,000",
     description: "High-resolution full-frame camera with dual processors.",
   },
   {
@@ -65,7 +65,7 @@ const products: Product[] = [
     brand: "Canon",
     name: "Lens I",
     img: "../../assets/lens1.jpeg",
-    price: "$2,499",
+    price: "Tsh 800,000",
     description: "Versatile mirrorless camera with excellent autofocus.",
   },
   {
@@ -73,7 +73,7 @@ const products: Product[] = [
     brand: "Nikon",
     name: "Lens II",
     img: "../../assets/lens2.jpg",
-    price: "$1,699",
+    price: "Tsh 700,000",
     description: "Compact and powerful camera with in-body stabilization.",
   },
 ];
